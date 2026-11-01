@@ -26,4 +26,3 @@
    s=$(echo "scale=2; $p * $t * $r / 100" | bc)
    echo "The simple interest is: "
    echo $s
-Run
